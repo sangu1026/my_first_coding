@@ -1,0 +1,38 @@
+
+
+.settings__setting{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    padding: 16px 0px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    justify-content: space-between;
+    transition: color 0.3s ease-in-out;
+    color: rgba(0,0,0,0.7);
+}
+.settings__setting:hover {
+    cursor: pointer;
+    color: black;
+}
+
+.settings__setting-column{
+    display:flex;
+    align-items: center;
+}
+
+.badge-s{
+    margin-left: 8px;
+}
+
+.settings__setting:last-child{
+    padding-bottom: 50px;
+}
+
+
+.settings__setting i{
+    margin-right: 30px;
+}
+
+.settings__setting-column:last-child{
+    opacity: 0.5;
+}

@@ -1,0 +1,26 @@
+/* .more__icons{
+    border-bottom: var(--main-border) ;
+}
+.more__icons__first-roll{
+    display: flex;
+    justify-content: space-between;
+}
+.more__icons__second-roll{
+    width: 45%;
+    display:flex;
+    justify-content: space-between;
+}
+.more__icon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:30px;
+}
+.more__icon i{
+    font-size: 25px;
+    margin-bottom: 10px;
+} */
+
+.more-screen{
+    margin-top: 35px;
+}
